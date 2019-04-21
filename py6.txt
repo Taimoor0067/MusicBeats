@@ -1,0 +1,5 @@
+oceanlevelperyear = 1.6
+year =
+while (year<=25):
+print("Ocean level at year " , year , "= ", oceanlevelperyear*year)
+year+=1
