@@ -1,0 +1,27 @@
+#11
+Ans11:-
+x=int(input("enter your cutomer purchased: "))
+
+if(x==0):
+
+print("he or she earns 0 points.")
+
+elif(x==2):
+
+print("he or she earns 5 points.")
+
+elif(x==4):
+
+print("he or she earns 15 points.")
+
+elif(x==6):
+
+print("he or she earns 30 points.")
+
+elif(x>8):
+
+print("he or she earns 60 points.")
+
+else:
+
+print("NO earns Point")
