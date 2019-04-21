@@ -1,0 +1,12 @@
+
+
+word=input("Enter word =")
+lenght=len(word)
+i=0
+while i<100:
+  if word=="": 
+     print("You entered no name so the program has stopped")
+     break
+  word=input("Enter word = ")
+length+=len(word)
+print("Total length of given words is = " , lenght)
