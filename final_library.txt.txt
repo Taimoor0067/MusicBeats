@@ -1,0 +1,10 @@
+These are the finalize libraries that we are working on.
+
+
+
+tkinter 
+ttkthemes 
+mutagen.mp3
+pygame
+threading
+
