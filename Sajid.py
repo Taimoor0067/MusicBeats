@@ -1,0 +1,10 @@
+import turtle
+a=turtle.Turtle()
+a.pencolor('green')
+a.pensize(6)
+a.fillcolor('blue')
+a.begin_fill()
+a.circle(100)
+a.end_fill()
+#a.don()
+turtle.exitonclick()
